@@ -1,4 +1,3 @@
-Birthday slackbot implementation...
 # Birthday - Anniversary - Custom Reminder Slackbot
 This slackbot is written in python, using `AWS Chalice` to configure AWS Lambda and API Gateway automatically. Project uses Upstash Redis for database.
 
